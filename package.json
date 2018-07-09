@@ -1,0 +1,19 @@
+{
+  "name": "invisible_light",
+  "version": "1.0.0",
+  "description": "Hermetic message-board",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/makluv/Invisible_Light.git"
+  },
+  "author": "Jason Mars",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/makluv/Invisible_Light/issues"
+  },
+  "homepage": "https://github.com/makluv/Invisible_Light#readme"
+}
